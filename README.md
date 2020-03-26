@@ -10,7 +10,7 @@
 - 01 Hardware: <br>
 [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/BEAP_Tutorials/blob/master/beap_01_board.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/BEAP_Tutorials/master?filepath=beap_01_board.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/GuitarsAI/BEAP_Tutorials/blob/master/beap_01_board.ipynb[)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/8jLT1U2aUtQ)
 
-  - Board Overview
+  - Board Overview (TMS320C5515 eZdsp USB Stick)
   - Block Diagram
   - Components
     - Digital Signal Processor (C5515)
