@@ -20,7 +20,27 @@
     - Audio Codec (TLV320AIC3204)
         - I²C (Inter-integrated Circuit)
         - I²S (Inter-integrated Circuit Sound)
-  
+
+- "Hello World": Audio Loopback from Stereo Line IN to Lineout OUT: <br>
+[![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/BEAP_Tutorials/blob/master/beap_02_HelloWorld.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/BEAP_Tutorials/master?filepath=beap_02_HelloWorld.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/GuitarsAI/BEAP_Tutorials/blob/master/beap_02_HelloWorld.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/XTvsnm2BvqM)
+
+  - Code Composer Studio IDE (Integrated Development Environment)
+    - C5500 Compiler
+  - CCS Project
+    - Project Properties
+    - Build Project
+    - Debug Project
+    - Terminate Program
+
+- Audio CODEC Configuration: <br>
+[![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/BEAP_Tutorials/blob/master/beap_03_CodecConfig.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/BEAP_Tutorials/master?filepath=beap_03_CodecConfig.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/GuitarsAI/BEAP_Tutorials/blob/master/beap_03_CodecConfig.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/e1FpS2C0aYI)
+
+  - Audio CODEC Block Diagram
+  - ADC Gain Setting
+    - Programmable Gain Amplifier (PGA) f
+  - Sampling Rate Configuration
+    - Phase-locked Loop (PLL)
+
 # YouTube Playlist
 [![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://www.youtube.com/playlist?list=PL6QnpHKwdPYiCso6Md0xTxqXQ9VbUQiSA)
  
