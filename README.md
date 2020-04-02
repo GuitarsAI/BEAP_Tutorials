@@ -21,7 +21,7 @@
         - I²C (Inter-integrated Circuit)
         - I²S (Inter-integrated Circuit Sound)
 
-- "Hello World": Audio Loopback from Stereo Line IN to Lineout OUT: <br>
+- 02 "Hello World": Audio Loopback from Stereo Line IN to Lineout OUT: <br>
 [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/BEAP_Tutorials/blob/master/beap_02_HelloWorld.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/BEAP_Tutorials/master?filepath=beap_02_HelloWorld.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/GuitarsAI/BEAP_Tutorials/blob/master/beap_02_HelloWorld.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/XTvsnm2BvqM)
 
   - Code Composer Studio IDE (Integrated Development Environment)
@@ -32,14 +32,27 @@
     - Debug Project
     - Terminate Program
 
-- Audio CODEC Configuration: <br>
+- 03 Audio CODEC Configuration: <br>
 [![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/BEAP_Tutorials/blob/master/beap_03_CodecConfig.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/BEAP_Tutorials/master?filepath=beap_03_CodecConfig.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/GuitarsAI/BEAP_Tutorials/blob/master/beap_03_CodecConfig.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/e1FpS2C0aYI)
 
   - Audio CODEC Block Diagram
   - ADC Gain Setting
-    - Programmable Gain Amplifier (PGA) f
+    - Programmable Gain Amplifier (PGA) 
   - Sampling Rate Configuration
     - Phase-locked Loop (PLL)
+
+- 04 LEDs, Switch Buttons and OLED <br>
+[![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/BEAP_Tutorials/blob/master/beap_04_LED_BUTTON_OLED.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/BEAP_Tutorials/master?filepath=beap_04_LED_BUTTON_OLED.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/GuitarsAI/BEAP_Tutorials/blob/master/beap_04_LED_BUTTON_OLED.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/Bc6CCbMYWR0)
+
+  - System LEDs
+    - XF LEDs
+    - GPIO LEDs
+  - Push Button Switches
+    - Successive Approximation Register (SAR) ADC
+  - OLED
+    - BitMap Memory
+    - OLED Fonts
+  - CCS and eZdsp Board Example using LED, Switch Buttons and the OLED
 
 # YouTube Playlist
 [![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://www.youtube.com/playlist?list=PL6QnpHKwdPYiCso6Md0xTxqXQ9VbUQiSA)
@@ -50,4 +63,3 @@ Please check the following files at the 'binder' folder:
   - postBuild
 
 # COMING SOON - UNDER CONSTRUCTION
-https://github.com/GuitarsAI/BEAP_Tutorials/blob/master/beap_01_board.ipynb
