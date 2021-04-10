@@ -54,6 +54,21 @@
     - OLED Fonts
   - CCS and eZdsp Board Example using LED, Switch Buttons and the OLED
 
+- 05 Basic Delay Effect <br>
+[![NBViewer](https://badgen.net/badge/Launch/on%20NBViewer/blue?icon=terminal)](https://nbviewer.jupyter.org/github/GuitarsAI/BEAP_Tutorials/blob/master/beap_05_Basic_Delay_Effect.ipynb)[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GuitarsAI/BEAP_Tutorials/master?filepath=beap_05_Basic_Delay_Effect.ipynb)[![Google Colab](https://badgen.net/badge/Launch/on%20Google%20Colab/black?icon=terminal)](https://colab.research.google.com/github/GuitarsAI/BEAP_Tutorials/blob/master/beap_05_Basic_Delay_Effect.ipynb)[![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://youtu.be/8jLT1U2aUtQ)
+
+  - Delay Line
+    - Delay Line Frequency Response
+  - Basic Delay Line Effect
+    - Basic Delay Effect Transfer Function H(z)
+  - Comb Filter
+    - Comb Filter Frequency Response
+  - Basic Delay Effect Audio Example
+  - Delay Line as a Circular Buffer
+    - Circular Buffer and Basic Delay Effect Python Implementation
+  - Basic Delay Effect Implementation on C5515 ezDsp Board
+  - Basic Delay Effect C5515 ezDsp Board Demo    
+
 # YouTube Playlist
 [![Youtube](https://badgen.net/badge/Launch/on%20YouTube/red?icon=terminal)](https://www.youtube.com/playlist?list=PL6QnpHKwdPYiCso6Md0xTxqXQ9VbUQiSA)
  
